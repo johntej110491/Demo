@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-tower-125705",
+  "private_key_id": "d68a4f522c516a683dc15a7c5d650a6fbfff7e12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYBT4PYvZygbof\nz5x8P7hCHqB1PZS0UptsIqMn3ALdHusWbA/v2QqGmMWZ2htRNpSgmoTw+wNqXj1f\nYTLal57WRcq95CeBItnzzkYjjQ5Y6kGi/OliXcDh/mOV68lM9PWVeXuBSh6xFnhn\nDta61BSWI3cmGKDdy+a6rYAEof3z9JALIC3N5H+7ZsJA1xCSfP2q5SXQoX5g78Bv\noTRibQiVVgut9Gy+/+ewR1ZgdYC6wjWVlE1E4lHSptQL5zkadkSlYiZWjYpEoBwg\nMq1ZMyNzktLTMyQVf7IgxrIHd6AYpyoehxbTjnQ4V1V1xiD6eo4LSzNOrB0zopky\nMLWr0fuFAgMBAAECggEADIP5PYD5UFcNxowLv/MdJM+Lcl93/x6OHKzBES0hCVii\nPDFUlwvXHUc6o5hMXt8vq0Jok2GnqAD/w0fpX1rLfBSdE3VliIjRYdvAmoywmRwx\nY1UN3IIcC7vmXyhDCG9kzx0zt6DouE/Z9/aXIEnrS2uQmqdwookOvCATO7F6+ihE\n3kuMqF5+3m12eZz7LmkzKHOGgI3yaGRiH6IYRKkv+VI3dkmfdUefyBjeafavKDz2\naxDNfA4fVl0tOCMUq22N5I1HR6IQmV4d4l2629Std2aMDuh0FNEZpeVb0sOvHpF2\nxCWTPLzW0t9AAiOztFXVUefhS2CH81sMmoouhyFRwQKBgQD+m5hDeKC2qzwkWtve\nSjQtkSRqPb+eMqMFDt1XKpGEDOQ3Vi5WqzQTdf9QdZ4F5HXLxw239vrN+9Z/4xaB\nVt6M2Tplm6EKXUx19Cs86I+fok9UUHpbEKAqk96PMMfWPI6bN+YUTiwrSYCgZoIv\n3t6Xm66K3Crftd9p9PdI+IoN8QKBgQDZM6HgOa3S2C8j/rG4fg+rHBEI9+rHJQJ3\nR/Bvve2twsBj6r9LNk9/1aT2jneqX+XjXbbjL5dS/jiF9n+fY/lBZd13LdrAiCWE\nBioC6NC8G/dG22oJlzu7INRVQv/CKBu0WJ2uJ8wqnNlYQtzMF0ILn7zN+9rBCd1Y\nzHE+w+CC1QKBgEgYy08f03Kmnos051nU7V2R4hvrjF1BvYPrJ6ZNOZOJCv7Yepq0\nNDTmjvu7spm8jda8cRgM6gx2KdFg/rh1XuPHh4/KOBn1PXeRQsUmnbT4gzo+58bt\nuE0WPkmR6KSz1TYC6DYLxNolIDVLkcX4eFO6E/ziR4m9uJwKcBPLvVwhAoGAOAyq\n6UH5KT/Aanl/QyzEvlMv0jCn1VwnlsBpu2w3uW9YVnBtjOsm+MYZG8cH+l9k45d7\naoUNd81CqM9Df848tDOlQuwCV0zK4Zb1oGqT8vcEiLR2WKM+NrvyD06K0X+oJpH3\nnsmGVjjDnZMjh0c5M+a0wjML8GSrSg736kqB1UECgYEApsbF5TP1288HBvEkGco0\nIk59CCKbu4gPV/6LUu3QbSDXI8GTxIcBiC3/T+uVYi+Nun3cdvffBwyA9Cal3Lis\nCNmmKKCPbAmvHqZWEfTJMrHs6q3bKM89T4uU0ZuvuV07CcSQFvoEZr1J4Qb/1Zep\nyBEmv07o2CrmihUpEJc2yMA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-crashreporting-pace2@inspiring-tower-125705.iam.gserviceaccount.com",
+  "client_id": "101093763426279137814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-crashreporting-pace2%40inspiring-tower-125705.iam.gserviceaccount.com"
+}
